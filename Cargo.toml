@@ -1,0 +1,4 @@
+[package]
+name = "chomp_core"
+version = "0.1.0"
+authors = ["Tom Bebbington <10bebtho@blue-coat.org>"]
